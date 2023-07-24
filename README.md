@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Harjot Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="![gif](https://github.com/HarjotSH/HarjotSH/assets/131196872/fa034fbd-dfd7-4e3a-95df-b4072a8f4649)">
+<img align="right" alt="Coding" width="100" src="![image](https://github.com/HarjotSH/HarjotSH/assets/131196872/206109a8-791a-4b99-9816-afc3d33449c7)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjotsh&label=Profile%20views&color=0e75b6&style=flat" alt="HarjotSH" /> </p>
 
 - 📫 How to reach me **harjotsingh01425@gmail.com**
